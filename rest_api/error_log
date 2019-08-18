@@ -1,0 +1,19 @@
+[01-Jun-2019 13:15:45 Europe/London] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/kangsigi/public_html/rest_api/connection.php on line 7
+[01-Jun-2019 13:15:45 Europe/London] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/kangsigi/public_html/rest_api/connection.php on line 7
+[01-Jun-2019 13:17:53 Europe/London] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/kangsigi/public_html/rest_api/connection.php on line 7
+[01-Jun-2019 13:17:53 Europe/London] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/kangsigi/public_html/rest_api/connection.php on line 7
+[01-Jun-2019 13:19:22 Europe/London] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/kangsigi/public_html/rest_api/connection.php on line 7
+[01-Jun-2019 13:19:22 Europe/London] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/kangsigi/public_html/rest_api/connection.php on line 7
+[01-Jun-2019 13:19:25 Europe/London] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/kangsigi/public_html/rest_api/connection.php on line 7
+[01-Jun-2019 13:19:25 Europe/London] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/kangsigi/public_html/rest_api/connection.php on line 7
+[01-Jun-2019 13:19:27 Europe/London] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/kangsigi/public_html/rest_api/connection.php on line 7
+[01-Jun-2019 13:19:27 Europe/London] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/kangsigi/public_html/rest_api/connection.php on line 7
+[02-Jun-2019 04:04:25 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kangsigi/public_html/rest_api/read.php on line 8
+[02-Jun-2019 04:07:45 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kangsigi/public_html/rest_api/read.php on line 8
+[02-Jun-2019 04:07:50 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kangsigi/public_html/rest_api/read.php on line 8
+[02-Jun-2019 04:45:03 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kangsigi/public_html/rest_api/read.php on line 8
+[02-Jun-2019 09:31:01 Europe/London] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/kangsigi/public_html/rest_api/connection.php on line 8
+[02-Jun-2019 09:31:14 Europe/London] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/kangsigi/public_html/rest_api/connection.php on line 8
+[02-Jun-2019 09:32:21 Europe/London] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/kangsigi/public_html/rest_api/connection.php on line 8
+[02-Jun-2019 09:32:26 Europe/London] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/kangsigi/public_html/rest_api/connection.php on line 8
+[02-Jun-2019 09:33:15 Europe/London] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/kangsigi/public_html/rest_api/connection.php on line 8
